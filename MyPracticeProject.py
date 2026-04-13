@@ -109,3 +109,4 @@ class UATApp(ctk.CTk):
 if __name__ == "__main__":
     app = UATApp()
     app.mainloop()
+# Комментарий для демонстрации обновления логики
